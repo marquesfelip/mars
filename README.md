@@ -9,7 +9,7 @@ Mars is a little app that uses the InSight: Mars Weather Service API distributed
 __Mars__ requires [JDK 8+](https://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html) to run.
 
 ```sh
-$ cd Mars/jar/
+$ cd mars/jar/
 $ java -jar mars-weather-1.0.jar
 ```
 
